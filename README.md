@@ -8,3 +8,5 @@ Since Unity has no native support for System.Numerics, Accord.Net, a very powerf
 You can find more about Accord.Net here: https://github.com/accord-net/framework and here http://accord-framework.net/.
 
 For compatibility reasons, Accord.Net 3.5 (net35 folder) was used and to effectively build you might need the System.ComponentModel.DataAnnotations.dll which can be found here: http://originaldll.com/file/system.componentmodel.dataannotations.dll/10126.html
+
+One last note: this implementation was inspired by this link https://rosettacode.org/wiki/Fast_Fourier_transform#C.23 in which you can find the very same FFT implemented in many other languages.
